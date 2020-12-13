@@ -1,6 +1,10 @@
-### Hey there, I'm Alvaro - Full stack Developer
-  _Code Nerd._
+## Hey there, I'm Alvaro - Full stack Developer
+####  _Code Nerd._ 🤓
+
+Hi, I'm Alvaro Guzman, a Passionate self-taught Fullstack Develepor in Dominican Republic.
+
 <br/>
+
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=aag2807" align="left"/>
 ---
