@@ -3,6 +3,9 @@
 
 Hi, I'm Alvaro Guzman, a Passionate self-taught Fullstack Develepor in Dominican Republic.
 
+### Me In a Nutshell
+  🛠️ Working on personal golang projects
+
 <br/>
 
 ---
