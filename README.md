@@ -8,6 +8,10 @@ Hi, I'm Alvaro Guzman, a Passionate self-taught Fullstack Develepor in Dominican
   
   📚 Learning and expanding knowledge og gRPC
   
+  🔖 Currently Reading Svelte and Sapper in Action -Manning Publisher
+  
+  🎮 Love developing Games no matter the plataform, engine or language
+  
 <br/>
 
 ---
