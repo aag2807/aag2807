@@ -1,7 +1,7 @@
 ## Hey there, I'm Alvaro - Full stack Developer
 ####  _Code Nerd._ 🤓
 
-Hi, I'm Alvaro Guzman, a Passionate self-taught Fullstack Develepor in Dominican Republic.
+Hi, I'm Alvaro Guzman, a Passionate self-taught Fullstack Developer in Dominican Republic.
 
 ### Me In a Nutshell
   🛠️ Working on personal golang projects
