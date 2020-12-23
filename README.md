@@ -6,7 +6,7 @@ Hi, I'm Alvaro Guzman, a Passionate self-taught Fullstack Developer in Dominican
 ### Me In a Nutshell
   🛠️ Working on personal golang projects
   
-  📚 Learning and expanding knowledge og gRPC
+  📚 Learning and expanding knowledge of gRPC
   
   🔖 Currently Reading Svelte and Sapper in Action -Manning Publisher
   
