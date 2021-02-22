@@ -11,7 +11,7 @@ https://keen-kepler-9682f7.netlify.app/
   
   📚 Learning and expanding knowledge of gRPC
   
-  🔖 Currently Reading Svelte and Sapper in Action -Manning Publisher
+  🔖  ASP.Net Core in action -Manning Publisher
   
   🎮 Love developing Games no matter the plataform, engine or language
   
