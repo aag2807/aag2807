@@ -19,14 +19,20 @@ https://keen-kepler-9682f7.netlify.app/
   
   ![image](https://user-images.githubusercontent.com/53130414/110413869-0b9fb400-8065-11eb-9115-d038926ae6d9.png) Trying Aurelia
 
-  
-<br/>
 
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=aag2807&show_icons=true&theme=tokyonight" align="left"/>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-***
+
 #### 💻 love to learn new languages
   
 <div align="center">
