@@ -7,15 +7,18 @@ Hi, I'm Alvaro Guzman, a Passionate self-taught Fullstack Developer in Dominican
 https://keen-kepler-9682f7.netlify.app/
 
 ### Me In a Nutshell
-  🛠️ Working on personal golang projects
+  🛠️ Working on my css skills
   
-  📚 Learning and expanding knowledge of gRPC
+  📚 Learning and expanding knowledge of Laravel
   
-  🔖  ASP.Net Core in action -Manning Publisher
+  🔖 ASP.Net Core in action -Manning Publisher
   
   🎮 Love developing Games no matter the plataform, engine or language
   
   🦕 Deno enthusiast 
+  
+  ![image](https://user-images.githubusercontent.com/53130414/110413869-0b9fb400-8065-11eb-9115-d038926ae6d9.png) Trying Aurelia
+
   
 <br/>
 
