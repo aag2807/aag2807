@@ -11,7 +11,7 @@ https://keen-kepler-9682f7.netlify.app/
   
   📚 Learning and expanding knowledge of Laravel
   
-  🔖 ASP.Net Core in action -Manning Publisher
+  🔖 You don't know JS yet pt 2 (Closures & Scope)
   
   🎮 Love developing Games no matter the plataform, engine or language
   
