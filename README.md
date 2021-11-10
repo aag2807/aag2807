@@ -11,11 +11,11 @@ https://keen-kepler-9682f7.netlify.app/
   
   📚 Learning and expanding knowledge of Laravel
   
-  🔖 You don't know JS yet pt 2 (Closures & Scope)
+ 
   
   🎮 Love developing Games no matter the plataform, engine or language
   
-  🦕 Deno enthusiast 
+  Flutter enthusiast 
   
   ![image](https://user-images.githubusercontent.com/53130414/110413869-0b9fb400-8065-11eb-9115-d038926ae6d9.png) Trying Aurelia
 
