@@ -49,12 +49,9 @@ I'm based out of the Sunny and Forever beautiful Dominican Republic.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/aag2807">
+<p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aag2807&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
   <img src="https://github-readme-stats.vercel.app/api?username=aag2807&show_icons=true&theme=tokyonight" align="left"/>
-  
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
