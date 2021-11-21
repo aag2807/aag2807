@@ -62,6 +62,8 @@ I'm based out of the Sunny and Forever beautiful Dominican Republic.
 
 <br/>
 <br/>
+<br/>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
