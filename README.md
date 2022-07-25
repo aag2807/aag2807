@@ -1,7 +1,7 @@
 ## Alvaro Guzman - Full stack Developer
 ####  _Code Nerd._ 🤓
 
-Hi, I'm Alvaro Guzman, a Full-stack developer currently working as a Senior Frontend Developer leveraging mostly JS based projects and the occasional Go,C# Flutter project.
+Hi, I'm Alvaro Guzman, a Full-stack developer currently working as a Full-Stack Developer leveraging mostly JS and .Net based projects and the occasional Go, Flutter or php project.
 I'm based out of the Sunny and Forever beautiful Dominican Republic.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='240' align="left"/>
