@@ -18,8 +18,8 @@ I'm based out of the Sunny and Forever beautiful Dominican Republic.
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying a lot of Graphics and animation based math.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Quantum Computing , and Cloud Architecture.\
-✍️ &nbsp;In my free time, I like to do game development, sketching and I love to read a good book .\
+🌱 &nbsp;I'm on track to sharpen and hone my current web dev and mobile abilities.\
+✍️ &nbsp;In my free time, I like to do game development and I love to read a good book .\
 ✉️ &nbsp;You can always shoot me an email at aagn2807@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
