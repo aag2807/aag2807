@@ -4,7 +4,7 @@ Hi, I'm Alvaro Guzman, a Software Developer currently working as a Full-Stack De
 
 I'm currently based in Dominican Republic.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='100%' align="left"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='50%' align="center"/>
 
 <br/>
 
