@@ -60,10 +60,14 @@ I'm currently based in Dominican Republic.
 
 ## 🤝🏻 &nbsp;Connect with Me ##
 
-
-<p align="center">
-<a href="https://www.linkedin.com/in/alvaro-guzman-bb11921aa/"><img src="https://img.shields.io/badge/-Alvaro%20Guzman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:aagn2807@gmail.com"><img src="https://img.shields.io/badge/-aagn2807@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/red_2807/"><img src="https://img.shields.io/badge/-@red_2807-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<div align="center" style="width:100%">
+  <p align="center">
+  <a href="https://www.linkedin.com/in/alvaro-guzman-bb11921aa/"><img src="https://img.shields.io/badge/-Alvaro%20Guzman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:aagn2807@gmail.com"><img src="https://img.shields.io/badge/-aagn2807@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/red_2807/"><img src="https://img.shields.io/badge/-@red_2807-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+  
+</div>
+
+
 
