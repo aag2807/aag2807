@@ -56,10 +56,10 @@ I'm currently based in Dominican Republic.
 <br/>
 <br/>
 <br/>
-
-### 🤝🏻 &nbsp;Connect with Me ###
-
 <br>
+
+## 🤝🏻 &nbsp;Connect with Me ##
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alvaro-guzman-bb11921aa/"><img src="https://img.shields.io/badge/-Alvaro%20Guzman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
