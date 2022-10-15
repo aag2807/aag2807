@@ -10,15 +10,13 @@ I'm currently based in Dominican Republic.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying a lot of Graphics and animation based math.\
-🌱 &nbsp;I'm on track to sharpen and hone my current web dev and mobile abilities.\
+💡 &nbsp;I'm a huge fan of different technologies.\
+🎓 &nbsp;I'm currently working in improving my overall software architecture & pattern knowledge.\
+🌱 &nbsp;I'm fully devoted to improving on a day to day basis.\
 ✍️ &nbsp;In my free time, I like to do game development and I love to read a good book .\
 ✉️ &nbsp;You can always shoot me an email at aagn2807@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack ###
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -26,7 +24,7 @@ I'm currently based in Dominican Republic.
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/static/v1?label=angular&message=v6\+&color=red)&nbsp;
+![Angular](https://img.shields.io/static/v1?label=angular&message=v6+\+&color=red)&nbsp;
 ![Vue](https://img.shields.io/static/v1?label=Vue&message=v3\+&color=green)&nbsp;
 ![Svelte](https://img.shields.io/static/v1?label=Svelte&message=v3\+&color=orange)&nbsp;
 ![RN](https://img.shields.io/static/v1?label=React%20Native&message=''&color=blue)&nbsp;
@@ -42,7 +40,7 @@ I'm currently based in Dominican Republic.
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics ###
 
 <div>
   <p align="left">
@@ -59,7 +57,7 @@ I'm currently based in Dominican Republic.
 <br/>
 <br/>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me ###
 
 <p align="center">
 <a href="https://www.linkedin.com/in/alvaro-guzman-bb11921aa/"><img src="https://img.shields.io/badge/-Alvaro%20Guzman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
