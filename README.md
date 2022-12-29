@@ -15,6 +15,7 @@ I'm currently based in Dominican Republic.
 🌱 &nbsp;I'm fully devoted to improving on a day to day basis.\
 ✍️ &nbsp;In my free time, I like to do game development and I love to read a good book .\
 ✉️ &nbsp;You can always shoot me an email at aagn2807@gmail.com! I'll try to respond as soon as I can.\
+📚 &nbsp;A huge programming language nerd.\
 
 ### 🛠 &nbsp;Tech Stack ###
 
@@ -57,8 +58,6 @@ I'm currently based in Dominican Republic.
 <br/>
 <br/>
 <br>
-
-## 🤝🏻 &nbsp;Connect with Me ##
 
 <div align="center" style="width:100%">
   <p align="center">
