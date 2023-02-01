@@ -18,13 +18,16 @@ Feel free to reach out to me at aagn2807@gmail.com. I will do my best to respond
 
 ### 🛠 &nbsp;Tech Stack & Skills ###
 
-Full-Stack Development
-Front-End Development
-Back-End Development
-Programming Languages (Javascript, Golang, C#, Ruby, Dart, Elixir, PHP)
-Mobile & Web Development
-Agile Development
-SOLID Methodology
+<ul>
+  <li>Full-Stack Development</li>
+  <li>Front-End Development</li>
+  <li>Back-End Development</li>
+  <li>Programming Languages (Javascript, Golang, C#, Ruby, Dart, Elixir, PHP)</li>
+  <li>Mobile & Web Development</li>
+  <li>Agile Development</li>
+  <li>SOLID Methodology</li>
+    
+</ul>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
