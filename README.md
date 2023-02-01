@@ -1,8 +1,6 @@
-## Alvaro Guzman - Full stack Developer ##
+# Alvaro Guzman - Full stack Developer #
 
-Hi, I'm Alvaro Guzman, a Software Developer currently working as a Full-Stack Developer, I currently work with a lot of different tools to leverage different solutions.
-
-I'm currently based in Dominican Republic.
+Hello, I'm Alvaro, a software developer currently working as a full-stack developer. Based in the Dominican Republic, I am dedicated to improving my skills and knowledge on a daily basis.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='50%' align="center"/>
 
@@ -10,14 +8,23 @@ I'm currently based in Dominican Republic.
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a huge fan of different technologies.\
-🎓 &nbsp;I'm currently working in improving my overall software architecture & pattern knowledge.\
-🌱 &nbsp;I'm fully devoted to improving on a day to day basis.\
-✍️ &nbsp;In my free time, I like to do game development and I love to read a good book .\
-✉️ &nbsp;You can always shoot me an email at aagn2807@gmail.com! I'll try to respond as soon as I can.\
-📚 &nbsp;A huge programming language nerd.
+💡 &nbsp;Technology Enthusiast: I am always seeking to stay up-to-date with the latest tools and technologies.\
+🎓 &nbsp;Continual Learner: I am constantly striving to improve my overall software architecture and pattern knowledge.\
+🌱 &nbsp;Daily Improver: I am fully dedicated to growing and improving as a software developer every day.\
+✍️ &nbsp;Game Development & Reading: In my free time, I enjoy game development and reading a good book.\
+✉️ &nbsp;Programming Language Nerd: I am passionate about programming languages and the art of software development.\
 
-### 🛠 &nbsp;Tech Stack ###
+Feel free to reach out to me at aagn2807@gmail.com. I will do my best to respond promptly.
+
+### 🛠 &nbsp;Tech Stack & Skills ###
+
+Full-Stack Development
+Front-End Development
+Back-End Development
+Programming Languages (Javascript, Golang, C#, Ruby, Dart, Elixir, PHP)
+Mobile & Web Development
+Agile Development
+SOLID Methodology
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,6 +47,8 @@ I'm currently based in Dominican Republic.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+I am always looking to expand my skill set and take on new challenges. Thank you for visiting my GitHub profile!
 
 ### ⚙️ &nbsp;GitHub Analytics ###
 
