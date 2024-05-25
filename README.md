@@ -1,7 +1,7 @@
 # Alvaro Guzman - Full stack Developer #
 
 Hello, I'm Alvaro, a software developer currently working as a full-stack developer. Based in the Dominican Republic, I am dedicated to improving my skills and knowledge on a daily basis.
-My <a href="https://portfolio-aag2807s-projects.vercel.app/#">Portfolio</a>
+My <a href="https://portfolio-aag2807s-projects.vercel.app/#">Portfolio</a>. <br>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='50%' align="center"/>
 
 <br/>
