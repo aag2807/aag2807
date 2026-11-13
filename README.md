@@ -11,7 +11,7 @@
   <img src="./assets/terminal.svg" width="100%" alt="whoami: senior full-stack developer in Santo Domingo. C#/.NET, Angular and TypeScript by day; game engines, compilers and systems code by night."/>
 </div>
 
-I'm self-taught, and I learn by rebuilding the things most people import: a language, a database, an HTTP server, a voxel engine. Most of what lives here started as "how hard could it be?"
+I learn by rebuilding the things most people import: a language, a database, an HTTP server, a voxel engine. Most of what lives here started as "how hard could it be?"
 
 ## 🔨 Built from scratch
 
@@ -106,7 +106,3 @@ More experiments: [lua-jsx-transpiler](https://github.com/aag2807/lua-jsx-transp
 
   <img src="https://streak-stats.demolab.com/?user=aag2807&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
-
-## 📚 Away from the keyboard
-
-Reading Dostoevsky, Camus, and Kafka. Training martial arts. Baking.
